@@ -1,4 +1,4 @@
-# W3PN Projects
+# W3PN Projects Registry
 
 This repository serves as a registry of top-tier projects of [Web3Privacy Now](https://web3privacy.info/) initiative.
 
